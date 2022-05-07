@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 3,
   "name": "Pokemon Card Extension",
   "description": "自分が持ってるポケカの枚数を管理する拡張機能",
